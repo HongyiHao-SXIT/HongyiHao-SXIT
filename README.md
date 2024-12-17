@@ -6,9 +6,9 @@
 
 👀 I like programming. I hope to apply for a master's and PhD degree in cybersecurity in the USA in the future, and hope to do research in the field of cybersecurity, and then ~ I am Furry enthusiast! ! ! !
 
-🌱 我正在学习C++、Python、HTML5、Javascript、SpringBoot、Android、Kali Linux 等等。
+🌱 我正在学习C++、Java、Python、HTML5、Javascript、SpringBoot、Android、Kali Linux 等等。
 
-🌱 Currently, I'm learning C++、Python、HTML5、Javascript、SpringBoot、Android、Kali Linux etc..
+🌱 Currently, I'm learning C++、Java、Python、HTML5、Javascript、SpringBoot、Android、Kali Linux etc..
 <!---
 HongyiHao-SXIT/HongyiHao-SXIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

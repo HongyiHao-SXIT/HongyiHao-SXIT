@@ -15,18 +15,13 @@
 
 </div>
 
-<div align="center" style="display: inline;">
-      <a href="https://github.com/ShellWen" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.shellwen.com/api?username=HongyiHao-SXIT&show_icons=true&locale=en&theme=dark&hide_border=true"
-            media="(prefers-color-scheme: dark)"
-          />
-          <img src="https://github-readme-stats.shellwen.com/api?username=HongyiHao-SXIT&show_icons=true&locale=en&theme=default&hide_border=true" />
-        </picture>
-      </a>
-      <br>
-</div>
+<p align="center" width="100%"><table><tbody>
+    <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=HongyiHao-SXIT&hide_border=true"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=HongyiHao-SXIT&show_icons=true&hide_border=true"/></td>
+    </tr>
+</tbody></table></p>
+
 
 <div  align = "center" style="display: inline;">
 
@@ -39,6 +34,6 @@
 ![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,html,css,javascript,php)
 
 # Tools and Frameworks
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,androidstudio,mysql)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,androidstudio,mysql,)
 
 </div>

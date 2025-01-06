@@ -15,12 +15,9 @@
 
 </div>
 
-<p align="center" width="100%"><table><tbody>
-    <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=HongyiHao-SXIT&hide_border=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=HongyiHao-SXIT&show_icons=true&hide_border=true"/></td>
-    </tr>
-</tbody></table></p>
+<p align="center" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=HongyiHao-SXIT&show_icons=true&hide_border=true"/>
+</p>
 
 
 <div  align = "center" style="display: inline;">

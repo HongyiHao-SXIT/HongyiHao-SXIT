@@ -20,7 +20,7 @@
 </p>
 
 
-<div  align = "center" style="display: inline;">
+<div align = "center" style="display: inline;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongyiHao-SXIT&layout=compact)](https://github.com/HongyiHao-SXIT/github-readme-stats)
 
@@ -28,9 +28,9 @@
 
 
 # Skills
-![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,html,css,javascript,php)
+![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,html,css,javascript,php,powershell)
 
 # Tools and Frameworks
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,androidstudio,mysql,)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,androidstudio,mysql,cmake,md,maven)
 
 </div>

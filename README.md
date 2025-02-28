@@ -9,8 +9,7 @@
   <br>
   ![GitHub Followers](https://img.shields.io/github/followers/HongyiHao-SXIT?style=for-the-badge&logo=github&logoColor=white&labelColor=%2381530A&color=%23F6E5AE)
   ![GitHub User's Stars](https://img.shields.io/github/stars/HongyiHao-SXIT?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&labelColor=%2381530A&color=%23F6E5AE)
-
-  ![Twitter Follow](https://img.shields.io/twitter/follow/Lanyi_adict1145?style=for-the-badge&logo=twitter&logoColor=white&labelColor=%2381530A&color=00000000)
+![Twitter Follow](https://img.shields.io/twitter/follow/Lanyi_adict1145?style=for-the-badge&logo=twitter&logoColor=white&labelColor=%2381530A&color=00000000)
   <br>
   ![E-Mail](https://img.shields.io/badge/E--Mail-Lanyi_adict@outlook.com-blue?style=for-the-badge&labelColor=%2381530A&color=%23F6E5AE)
 
@@ -19,10 +18,6 @@
 <p align="center" width="100%">
     <img src="https://github-readme-stats.vercel.app/api?username=HongyiHao-SXIT&show_icons=true&hide_border=true"/>
 </p>
-
-<div align = "center" style="display: inline;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongyiHao-SXIT&layout=compact)](https://github.com/HongyiHao-SXIT/github-readme-stats)
-</div>
 
 # Skills
 ![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,html,css,javascript,php,powershell,latex)

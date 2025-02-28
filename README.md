@@ -31,6 +31,6 @@
 ![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,html,css,javascript,php,powershell,latex)
 
 # Tools and Frameworks
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,md,maven,kali)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,md,maven)
 
 </div>

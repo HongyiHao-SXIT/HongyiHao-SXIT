@@ -16,10 +16,11 @@
 
 <p align="center" width="100%">
     <img src="https://github-readme-stats.vercel.app/api?username=HongyiHao-SXIT&show_icons=true&hide_border=true"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HongyiHao-SXIT&layout=compact"/>
 </p>
 
 # Skills
 ![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,html,css,javascript,php,powershell,latex)
 
 # Tools and Frameworks
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,md,maven)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,md,maven,opencv)

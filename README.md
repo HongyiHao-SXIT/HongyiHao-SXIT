@@ -2,7 +2,7 @@
   
   # Hello, I am Lanyi_adict! 👋
 
-  <i>A blue fox and a Protogen, who is crazy about programming</i><br><i>Currently studying Computer Science and want to apply for Robotics or Software Engineering Master and PhD degrees in the future.</i>
+  <i>A blue fox and a Protogen, who is crazy about programming</i><br><i>Currently studying Computer Science and want to apply for Robotics Master and PhD degrees in the future.</i>
   <br>
   <br>
   ![GitHub Sponsors](https://img.shields.io/github/sponsors/HongyiHao-SXIT?style=for-the-badge&logo=github&logoColor=white&labelColor=%2381530A&color=%23F6E5AE)
@@ -23,4 +23,4 @@
 ![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,html,css,javascript,php,powershell,latex)
 
 # Tools and Frameworks
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,md,maven,opencv)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,md,maven,opencv,matlab)

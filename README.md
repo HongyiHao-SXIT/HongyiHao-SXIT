@@ -20,7 +20,7 @@
 </p>
 
 # Skills
-![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,html,css,javascript,php,powershell,latex)
+![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,java,python,nodejs,html,css,javascript,php,powershell,latex,kotlin)
 
 # Tools and Frameworks
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,md,maven,opencv,matlab)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,md,maven,opencv,matlab,arduino,androidstudio,ros,anaconda,pytorch)

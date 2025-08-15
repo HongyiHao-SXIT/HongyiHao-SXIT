@@ -26,13 +26,13 @@
 
 ## 💻 Skills
 
-![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,javascript,ts,php,powershell,latex,kotlin)
+![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,ts,php,powershell,latex,kotlin)
 
 
 
 ## 🛠 Tools & Frameworks
 
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,stackoverflow,qt,vue,spring,linux,ubuntu,mysql,cmake,maven,opencv,matlab,arduino,androidstudio,ros,anaconda,pytorch)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,stackoverflow,qt,nodejs,vue,spring,ubuntu,mysql,cmake,maven,opencv,matlab,arduino,androidstudio,ros,anaconda,pytorch)
 
 <div align="center">
 

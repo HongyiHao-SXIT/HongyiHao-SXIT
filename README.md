@@ -1,36 +1,79 @@
 <div align="center">
 
-# 🦊 Hello, I am **Lanyi_adict**! 👋  
+# 🦊 Hello, I'm <span style="color:#0078D7;">Lanyi_adict</span> 👋  
+<i>A blue fox and a Protogen who loves programming and robotics.</i>  
+<i>Currently studying <b>Computer Science</b> and aiming for <b>Robotics Master's & PhD</b> degrees.</i>  
 
-<i>A blue fox and a Protogen, who is crazy about programming.</i>  
-<i>Currently studying Computer Science and aiming for Robotics Master's & PhD degrees in the future.</i>  
+---
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/HongyiHao-SXIT?style=for-the-badge&logo=github&logoColor=white&labelColor=81530A&color=F6E5AE)
-![GitHub Followers](https://img.shields.io/github/followers/HongyiHao-SXIT?style=for-the-badge&logo=github&logoColor=white&labelColor=81530A&color=F6E5AE)
-![GitHub Stars](https://img.shields.io/github/stars/HongyiHao-SXIT?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&labelColor=81530A&color=F6E5AE)
-![E-Mail](https://img.shields.io/badge/Email-Lanyi_adict@outlook.com-blue?style=for-the-badge&labelColor=81530A&color=F6E5AE)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/HongyiHao-SXIT?style=for-the-badge&logo=github&logoColor=white&labelColor=0078D7&color=D9EAF7)
+![GitHub Followers](https://img.shields.io/github/followers/HongyiHao-SXIT?style=for-the-badge&logo=github&logoColor=white&labelColor=0078D7&color=D9EAF7)
+![GitHub Stars](https://img.shields.io/github/stars/HongyiHao-SXIT?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&labelColor=0078D7&color=D9EAF7)
+![E-Mail](https://img.shields.io/badge/Email-Lanyi_adict@outlook.com-0078D7?style=for-the-badge&labelColor=0078D7&color=D9EAF7)
+
+---
 
 </div>
 
+## 📊 GitHub & Coding Stats
+<div align="center">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HongyiHao-SXIT&show_icons=true&theme=default&hide_border=false&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lanyi_adict&theme=default&hide_border=false"/>
+</a>
 
-## 📊 GitHub Stats
+</div>
+
+---
+
+## 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HongyiHao-SXIT&show_icons=true&hide_border=true&theme=light" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongyiHao-SXIT&layout=compact&theme=light" height="150"/>
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,php,kotlin,latex)
 
 </div>
 
+---
 
-## 💻 Skills
+## ⚙️ Tools
 
-![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,javascript,ts,php,powershell,latex,kotlin)
+<div align="center">
 
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,cmake,maven,anaconda,androidstudio,matlab,arduino,npm)
 
+</div>
 
-## 🛠 Tools & Frameworks
+---
+
+## ☁️ Platform & Frameworks
+
+<div align="center">
+
+![Frameworks](https://skillicons.dev/icons?i=twitter,nodejs,vue,spring,flask,ros,mysql,docker,opencv,pytorch)
+
+</div>
+
+---
+
+## 💽 Operating Systems
+
+<div align="center">
+
+![Operating Systems](https://skillicons.dev/icons?i=windows,apple,ubuntu,linux,kali,raspberrypi)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ <i>"Code is like art — and I love painting with algorithms."</i> ✨  
+
+</div>
 
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,nodejs,vue,spring,ubuntu,mysql,cmake,maven,opencv,matlab,arduino,androidstudio,ros,anaconda,pytorch)
 

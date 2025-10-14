@@ -74,11 +74,3 @@
 ✨ <i>"Code is like art — and I love painting with algorithms."</i> ✨  
 
 </div>
-
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,nodejs,vue,spring,ubuntu,mysql,cmake,maven,opencv,matlab,arduino,androidstudio,ros,anaconda,pytorch)
-
-<div align="center">
-
-✨ *"Code is like art — and I love painting with algorithms."* ✨  
-
-</div>

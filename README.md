@@ -21,8 +21,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HongyiHao-SXIT&show_icons=true&theme=default&hide_border=false&count_private=true"/>
 </a>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lanyi_adict&theme=default&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lanyi_adict&theme=default&hide_border=false"/>
 </a>
 
 </div>

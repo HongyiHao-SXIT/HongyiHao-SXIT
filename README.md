@@ -59,10 +59,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-✨ <i>"Code is like art — and I love painting with algorithms."</i> ✨  
-
-</div>

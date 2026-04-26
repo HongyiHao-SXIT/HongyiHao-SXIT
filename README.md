@@ -1,6 +1,4 @@
-<p align="center">
-  🦊 Hello, I'm Lanyi_adict 👋
-</p>
+# <p align="center">🦊 Hello, I'm Lanyi_adict 👋 </p>
 
 <p align="center">
   <i>A blue fox and a Protogen who likes programming and robotics.</i><br>

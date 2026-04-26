@@ -1,7 +1,10 @@
-# <p align="center">🦊 Hello, I'm Lanyi_adict 👋</p>
 <p align="center">
-  <i>A blue fox and a Protogen who loves programming and robotics.</i><br>
-  <i>Currently studying <b>Computer Science</b> and aiming for <b>Robotics' PhD</b> degrees.</i>
+  🦊 Hello, I'm Lanyi_adict 👋
+</p>
+
+<p align="center">
+  <i>A blue fox and a Protogen who likes programming and robotics.</i><br>
+  <i>Currently studying <b>Computer Engineering</b> and aiming for <b>Robotics' PhD</b> degrees.</i>
 </p>
 
 <p align="center">
@@ -11,11 +14,42 @@
   <br>
   <img src="https://img.shields.io/badge/Email-Lanyi_adict@outlook.com-0078D7?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0078D7&color=D9EAF7" alt="Email">
   <img src="https://img.shields.io/badge/Twitter-@Lanyi1145-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  
+  
 </p>
 
 ---
 
+### 📊 WakaTime Stats
+
+<p align="center">
+      <a href="https://github.com/HongyiHao-SXIT" target="_blank">
+        <picture>
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api?username=HongyiHao-SXIT&show_icons=true&locale=en&theme=dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api?username=HongyiHao-SXIT&show_icons=true&locale=en&theme=default&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.shellwen.com/api?username=ShellWen&show_icons=true&locale=en&theme=default&hide_border=true" />
+        </picture>
+      </a>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HongyiHao_SXIT&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=HongyiHao_SXIT&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" 
+      alt="WakaTime Stats"
+    />
+  </picture>
+</p>
+
 ### 🤖 Robotics & Scientific Computing
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,matlab,arduino,raspberrypi,cmake" />
@@ -23,20 +57,23 @@
 </p>
 
 ### 💻 Programming Languages
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,cs,java,kotlin,ts,js,php,latex" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,kotlin,ts,js,php,latex" />
   </a>
 </p>
 
 ### 🛠️ Development Tools & Environments
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,pycharm,visualstudio,webstorm,androidstudio,git,maven,anaconda,npm,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,maven,anaconda,npm,docker" />
   </a>
 </p>
 
 ### 🌐 Web & Backend Frameworks
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,vue,mysql" />
@@ -44,6 +81,7 @@
 </p>
 
 ### 💽 Operating Systems
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,linux,kali,windows,apple" />
@@ -54,7 +92,7 @@
 
 <p align="center">
   <b>🎯 Research Interests</b><br>
-  Computer Vision • Path Planning • Human-Robot Interaction • SLAM
+  Computer Vision • Reinforcemant Learning • Human-Robot Interaction • SLAM
 </p>
 
 <p align="center">

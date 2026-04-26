@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 WakaTime Stats
+### 📊 Github Stats
 
 <p align="center">
       <a href="https://github.com/HongyiHao-SXIT" target="_blank">
@@ -31,19 +31,9 @@
             srcset="https://github-readme-stats.shellwen.com/api?username=HongyiHao-SXIT&show_icons=true&locale=en&theme=default&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.shellwen.com/api?username=ShellWen&show_icons=true&locale=en&theme=default&hide_border=true" />
+          <img src="https://github-readme-stats.shellwen.com/api?username=HongyiHao_SXIT&show_icons=true&locale=en&theme=default&hide_border=true" />
         </picture>
       </a>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=HongyiHao_SXIT&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=HongyiHao_SXIT&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" 
-      alt="WakaTime Stats"
-    />
-  </picture>
 </p>
 
 ### 🤖 Robotics & Scientific Computing

@@ -1,8 +1,8 @@
 # <p align="center">🦊 Hello, I'm Lanyi_adict 👋 </p>
 
 <p align="center">
-  <i>A blue fox and a Protogen who likes programming and robotics.</i><br>
-  <i>Currently studying <b>Computer Engineering</b> and aiming for <b>Robotics' PhD</b> degrees.</i>
+  <i>A blue fox and a Protogen who likes RL and robotics.</i><br>
+  <i>Currently I am a first-year graduate stident in <b>Computer Engineering</b> at <b> Columbia University </b>and aiming for <b>Robotics' PhD</b> degrees.</i>
 </p>
 
 <p align="center">
